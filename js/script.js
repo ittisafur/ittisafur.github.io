@@ -27,7 +27,6 @@ $(document).ready(function () {
         percentPosition: true,
         masonry: {
             columnWidth: ".grid-sizer",
-            fitWidth: true,
         },
     });
 
